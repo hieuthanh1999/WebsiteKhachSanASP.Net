@@ -1,0 +1,28 @@
+D:\Project\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+D:\Project\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+D:\Project\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+D:\Project\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csprojAssemblyReference.cache
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csproj.CoreCompileInputs.cache
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+D:\ASP.NET\WebKS\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb
+D:\Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+D:\Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+D:\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+D:\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll.config
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csprojAssemblyReference.cache
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csproj.CoreCompileInputs.cache
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+D:\ShareCode\BTL ASP Files\N2_Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll.config
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\KhachSan_Epic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+C:\Users\ADMIN\Desktop\Web_Khach_San\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb

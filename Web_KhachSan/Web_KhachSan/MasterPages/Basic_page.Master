@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Basic_page.master.cs" Inherits="Web_KhachSan.MasterPages.Basic_page" %>
+
+<!DOCTYPE HTML>
+
+<html>
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="title" runat="server">
+    </asp:ContentPlaceHolder></title>
+    <link rel="stylesheet" href="../Style/css/css_main.css"/>
+    <link rel="stylesheet" href="../Style/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../Style/css/animate.css"/>
+    <link rel="stylesheet" href="../Style/fonts/Fontawesome/css/all.css"/>
+    <script src="../Style/js/WOW.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="../Style/js/bootstrap.min.js"></script>
+    <script src="../Style/js/js_main.js"></script>
+    <script src="../Style/js/parallax.js"></script>
+    <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css"
+         rel = "stylesheet">
+    <script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

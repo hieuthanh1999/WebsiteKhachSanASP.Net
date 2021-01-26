@@ -1,0 +1,57 @@
+﻿
+.form-lo {
+    width: 400px;
+    height: auto;
+    margin: 70px auto;
+    font-family: Tahoma, Helvetica, sans-serif;
+    border: 3px solid #e1dce2;
+    border-radius: 5px;
+    background-color: rgba(192,192,192,0.3);
+    border-radius: 5px;
+}
+
+.heading {
+    text-align: center;
+    color: #fcfeff;
+    font-family: Rotato;
+    font-size: 30px;
+}
+
+.container {
+    padding: 16px;
+}
+
+.EM, .PW {
+    margin-bottom: 15px;
+}
+
+.EM label, .PW label, .EM input, .PW input {
+    width: 94%;
+    padding: 10px;
+ }
+
+.EM input:focus, .PW input:focus {
+    background-color: #c0cfd6;
+    border: 2px solid #e1dce2;
+}
+
+.remember {
+    text-align: center;
+}
+
+.login {
+    margin-top: 20px;
+    text-align: center;
+}
+
+ .button {
+        width: 70px;
+        height: 30px;
+        border: none;
+        border-radius: 10px;
+        background-color: #03a92c;
+    }
+
+.button:hover {
+    opacity: 0.8;
+}

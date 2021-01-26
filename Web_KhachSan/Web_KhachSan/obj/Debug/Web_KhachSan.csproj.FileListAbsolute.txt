@@ -1,0 +1,4 @@
+D:\Project\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+D:\Project\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+D:\Project\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+D:\Project\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb

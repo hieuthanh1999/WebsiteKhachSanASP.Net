@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll.config
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.dll
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\bin\Web_KhachSan.pdb
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\obj\Debug\ASP.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\obj\Debug\ASP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.dll
+C:\Users\ADMIN\Desktop\ASP_BTL\Web_KhachSan\Web_KhachSan\obj\Debug\Web_KhachSan.pdb
